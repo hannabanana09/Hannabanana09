@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**hannabanana09/Hannabanana09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BOAS VINDAS AO MEU PERFIL
 
-Here are some ideas to get you started:
+Meu Nome É Geovanna Rodrigues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>ESTOU ESTUDANDO NA ALURA.
+
+>ESTOU ME DESENVOLVENDO NA LINGUAGEM JavaScript.
+
+>Ultilizo nesse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos.
+
+VOCÊ PODE ENTRAR EM CONTADO COMIGO
+
+>0000111414340SP.al.educacao.sp.gov.br
+
